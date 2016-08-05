@@ -5,7 +5,7 @@ A project demonstrating Smelt. See [smelt.gnasp.com](http://smelt.gnasp.com) for
 ## Trying the demonstration
 
 * Install [Smelt](http://smelt.gnasp.com)
-* [Download](https://github.com/GnaspGames/Smelt-Demo/archive/master.zip) or `git clone` the repository to try the demo.
+* [Download and unzip](https://github.com/GnaspGames/Smelt-Demo/archive/master.zip) or `git clone` the repository to try the demo.
 * Using a command line terminal, navigate to the directory you saved/cloned the demo into.
 * Run `smelt compile demo.mcc` and then see the `demo.oc` file that is created.
 * Go into Minecraft 1.9^
